@@ -1,4 +1,12 @@
 def all_capitals(text):
     return text.upper()
 
-""" adding docstring """
+
+""" first function """
+
+
+def first_capital(text):
+    return text.title()
+
+
+""" second function"""
